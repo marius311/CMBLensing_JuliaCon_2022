@@ -1,0 +1,8 @@
+[deps]
+CMBLensing = "b60c06c0-7e54-11e8-3788-4bd722d65317"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+MuseInference = "43b88160-90c7-4f71-933b-9d65205cd921"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
